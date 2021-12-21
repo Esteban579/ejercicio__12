@@ -1,0 +1,8 @@
+FRASES.TXT
+
+¿Hola, qué tal?, Me llamo Esteban Marcos
+Me voy ya
+Nos vemos mañana
+Voy a comer
+Ya he terminado
+
